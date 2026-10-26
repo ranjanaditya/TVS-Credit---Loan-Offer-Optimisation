@@ -3,8 +3,6 @@
   "trailingSlash": false,
   "redirects": [
     { "source": "/offer-intelligence-standalone", "destination": "/", "permanent": true },
-    { "source": "/offer-intelligence-standalone.html", "destination": "/", "permanent": true },
-    { "source": "/tvs_credit_aditya_isb", "destination": "/", "permanent": true },
-    { "source": "/tvs_credit_aditya_isb.html", "destination": "/", "permanent": true }
+    { "source": "/tvs_credit_aditya_isb", "destination": "/", "permanent": true }
   ]
 }
